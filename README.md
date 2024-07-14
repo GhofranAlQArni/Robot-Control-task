@@ -2,6 +2,11 @@
 
 for view : https://codepen.io/GhofranAlQArni/pen/GRbJbWj
 
+
+# OUTPUT 
+![control panel](https://github.com/user-attachments/assets/0851c378-60b5-42ed-b74e-62a6a607a824)
+
+
 # Robot Control Panel Design Explanation
 HTML Structure
 The HTML structure starts with the <!DOCTYPE html> declaration to define the document type and HTML version. The head section includes meta tags for character encoding and the title of the page. The style section within the head contains CSS styles that define the appearance of various elements on the page.
