@@ -127,4 +127,10 @@ css
 .button5 svg {
   transform: rotate(90deg);
 }
+
+
+# DATA BASE :
+
+![Screenshot 2024-07-21 173614](https://github.com/user-attachments/assets/839bd173-14c9-41e4-8e74-035c32399afd)
+
 This design ensures a visually appealing and user-friendly control panel for robot operations, with clear button functionalities and responsive interactions.
