@@ -133,4 +133,11 @@ css
 
 <img width="1079" alt="image" src="https://github.com/user-attachments/assets/5f63ca0c-3f7f-4e5d-88c1-5b538abe956a">
 
+
+_______________________________________________________________________________________________________________________
+
+
+![image](https://github.com/user-attachments/assets/79446e05-2351-4172-b9c9-67e608e36d7e)
+
+
 This design ensures a visually appealing and user-friendly control panel for robot operations, with clear button functionalities and responsive interactions.
