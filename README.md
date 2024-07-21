@@ -131,6 +131,6 @@ css
 
 # DATA BASE :
 
-![Screenshot 2024-07-21 173614](https://github.com/user-attachments/assets/839bd173-14c9-41e4-8e74-035c32399afd)
+<img width="1079" alt="image" src="https://github.com/user-attachments/assets/5f63ca0c-3f7f-4e5d-88c1-5b538abe956a">
 
 This design ensures a visually appealing and user-friendly control panel for robot operations, with clear button functionalities and responsive interactions.
